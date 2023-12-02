@@ -15,6 +15,6 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&weight=100&size=15&duration=1&pause=1000&color=3FB0FF&repeat=false&width=435&lines=+forge+test++--match-contract++Greeting++-vv)](https://git.io/typing-svg)\
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&weight=100&size=15&duration=69&pause=1000&color=F2FFF2&repeat=false&width=435&lines=%5B%E2%A0%91%5D+Compiling...;%5B%E2%A0%92%5D+Compiling...;%5B%E2%A0%98%5D+Compiling...;%5B%E2%A0%94%5D+Compiling...;%5B%E2%A0%B0%5D+Compiling...;%5B%E2%A0%91%5D+Compiling...;%5B%E2%A0%91%5D+Compiling...;%5B%E2%A0%94%5D+Compiling...)](https://git.io/typing-svg)\
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&weight=100&size=15&duration=100&pause=1000&color=3FB0FF&repeat=false&width=435&lines=%3E;%3E;%3E;%3E;%3E;%3E;%5BPASS%5D+testGreeting()+(gas%3A+69))](https://git.io/typing-svg)\
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&weight=100&size=15&duration=100&pause=1000&color=3FB0FF&repeat=false&width=435&lines=%3E;%3E;%3E;%3E;%3E;%3E;%3E;%3E;Logs%3A+++Hope+you'll+have+a+wonderful+day+champ😊!)](https://git.io/typing-svg)\
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&weight=100&size=15&duration=100&pause=1000&color=3FB0FF&repeat=false&width=435&lines=%3E;%3E;%3E;%3E;%3E;%3E;%3E;%3E;Logs%3A+++Hope+you'll+have+a+wonderful+day+champ😊!)](https://git.io/typing-svg)
 
  ---
