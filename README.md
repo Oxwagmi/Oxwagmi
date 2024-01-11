@@ -1,6 +1,10 @@
 <p align="center">
 
----
+
+
+ <img align="right" width="250" height="250" alt="GIF" src="https://github.com/niluk-256/niluk-256/assets/67406138/04f48788-b7c1-4c1e-a278-f230a47902ba" />
+
+ ---
  |   Collection     | Description |
 | ----------- | ----------- |
 | ![file](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0no56XN7JReIC8oaMG32ahhyguOM0cl3tPwvE1KLpb6hj3WaFrg1GauHfEmpBoml2w9g&usqp=CAU)      |          |
