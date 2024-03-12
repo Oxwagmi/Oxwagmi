@@ -9,9 +9,9 @@
 | ----------- | ----------- |
 | ![file](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0no56XN7JReIC8oaMG32ahhyguOM0cl3tPwvE1KLpb6hj3WaFrg1GauHfEmpBoml2w9g&usqp=CAU)      |          |
 | Ai   |  [list/ai](https://github.com/stars/niluk-256/lists/ai)       |
- | web3 sec   |  [list/web3-sec](https://github.com/stars/niluk-256/lists/web3-security)       |
-  | web3 dev  |  [list/web3-dev](https://github.com/stars/niluk-256/lists/web3-dev)       |
-  | nvim   |  [list/bin/bash](https://github.com/stars/niluk-256/lists/bash-zsh-vim-nvim)       |
+ | web3 sec   |  [list/web3-sec](https://github.com/stars/niluke/lists/web3-security)       |
+  | web3 dev  |  [list/web3-dev](https://github.com/stars/niluke/lists/web3-dev)       |
+  | nvim   |  [list/bin/bash](https://github.com/stars/niluke/lists/bash-zsh-vim-nvim)       |
 
 ![](https://komarev.com/ghpvc/?username=github-niluk-256)
 
