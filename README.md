@@ -8,12 +8,12 @@
  |   Collection     | Description |
 | ----------- | ----------- |
 | ![file](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0no56XN7JReIC8oaMG32ahhyguOM0cl3tPwvE1KLpb6hj3WaFrg1GauHfEmpBoml2w9g&usqp=CAU)      |          |
-| Ai   |  [list/ai](https://github.com/stars/fern4nda0/lists/ai)       |
- | web3 sec   |  [list/web3-sec](https://github.com/stars/fern4nda0/lists/web3-security)       |
-  | web3 dev  |  [list/web3-dev](https://github.com/stars/fern4nda0/lists/web3-dev)       |
-  | nvim   |  [list/bin/bash](https://github.com/stars/fern4nda0/lists/bash-zsh-vim-nvim)       |
+| Ai   |  [list/ai](https://github.com/stars/Oxwagmi/lists/ai)       |
+ | web3 sec   |  [list/web3-sec](https://github.com/stars/Oxwagmi/lists/web3-security)       |
+  | web3 dev  |  [list/web3-dev](https://github.com/stars/Oxwagmi/lists/web3-dev)       |
+  | nvim   |  [list/bin/bash](https://github.com/stars/Oxwagmi/lists/bash-zsh-vim-nvim)       |
 
-![](https://komarev.com/ghpvc/?username=github-niluk-256)
+
 
  ---
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&weight=100&size=15&duration=1&pause=1000&color=3FB0FF&repeat=false&width=435&lines=+forge+test++--match-contract++Greeting++-vv)](https://git.io/typing-svg)\
